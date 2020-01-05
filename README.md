@@ -3,8 +3,10 @@ IoTDeeperDiveOOP2020
 Hier finden Teilnehmer des IoT Deeper Dive Tutoriums alle Resourcen wie zum Beispiel Quelldateien, Handouts, Datenblätter.
 Die Nutzung der Artefakte erfolgt ohne Gewähr.
 
-Voraussetzung für das Tutorium sind (Bill of Material)
-  Eigenes Notebook (Windows, Linux, Mac); falls möglich mit microSD-Leser/Schreiber
+  Voraussetzung für das Tutorium sind (Bill of Material)
+
+    Eigenes Notebook (Windows, Linux, Mac); falls möglich mit microSD-Leser/Schreiber
+  
   Die folgende Hardware wird vom Veranstalter bzw. Referenten zur Verfügung gestellt:
   
     Raspberry Pi Zero WH
