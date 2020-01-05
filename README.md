@@ -36,17 +36,18 @@ Voraussetzung für das Tutorium sind (Bill of Material)
 
 Notwendige Software-Installationen
 
-  Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
-  
-  openSSH-kompatibler Client für ssh, sftp-Zugriff auf Raspberry Pi
-  
-  BalenaEtcher-Software zum Schreiben von microSDs
-  
-  Eventuell auch Tensorflow Lite
-  
-Für die Übungen müssen Teilnehmer eigene Konten erstellen auf
 
-  ThingSpeak
+    Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
   
-  IFTTT
+    openSSH-kompatibler Client für ssh, sftp-Zugriff auf Raspberry Pi
+  
+    BalenaEtcher-Software zum Schreiben von microSDs
+  
+    Eventuell auch Tensorflow Lite
+  
+Für die Übungen sollten Teilnehmer eigene Konten erstellen auf
+
+    ThingSpeak
+  
+    IFTTT
   
