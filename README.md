@@ -39,7 +39,8 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     Lötstation (nur für BME280 notwendig)
     
-    Optional: Eigene Hardware (z.B. Analogsensoren), Messgeräte
+    
+Optional können Teilnehmer mitbringen: Eigene Hardware (z.B. Analogsensoren), Messgeräte
   
 
 Notwendige Software-Installationen
