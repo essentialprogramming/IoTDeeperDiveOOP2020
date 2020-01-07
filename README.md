@@ -40,6 +40,7 @@ Notwendige Software-Installationen
 
 
     Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
+    Alternativ: Andere IDE oder anderer Editor (z.B., nano, vim, vi)
   
     openSSH-kompatibler Client für ssh, sftp-Zugriff auf Raspberry Pi
   
