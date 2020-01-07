@@ -6,6 +6,10 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   Voraussetzung für das Tutorium sind (Bill of Material)
 
     Eigenes Notebook (Windows, Linux, Mac); falls möglich mit microSD-Leser/Schreiber
+    
+  Verwendete Programmiersprache
+  
+    Python 3.x (z.B. 3.7)
   
   Die folgende Hardware wird vom Veranstalter bzw. Referenten zur Verfügung gestellt:
   
@@ -49,6 +53,8 @@ Notwendige Software-Installationen
     BalenaEtcher-Software zum Schreiben von microSDs
   
     Eventuell auch Tensorflow Lite
+    
+    Optional: Fritzing für Schaltungsentwurf
   
 Für die Übungen sollten Teilnehmer eigene Konten erstellen auf
 
