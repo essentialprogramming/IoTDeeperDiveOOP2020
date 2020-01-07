@@ -34,6 +34,8 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     Verfügbarkeit eines offenen WLAN
     
     Lötstation (nur für BME280 notwendig)
+    
+    Optional: Eigene Hardware (z.B. Analogsensoren), Messgeräte
   
 
 Notwendige Software-Installationen
