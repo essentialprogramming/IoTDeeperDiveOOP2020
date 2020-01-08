@@ -79,4 +79,6 @@ Kopieren des Master-Branches über
 
     git clone https://github.com/ms1963/IoTDeeperDiveOOP2020.git 
     
-oder als ZIP-Download
+oder als ZIP-Download.
+
+Bei dringenden Rückfragen Mail an: michael DOT stal AT gmail DOT com
