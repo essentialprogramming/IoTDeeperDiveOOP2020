@@ -38,9 +38,9 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     "Jumper-Cables" (hauptsächlich Female/Male und Male/Male)
     
-    Verfügbarkeit eines offenen WLAN
+    Offenes WLAN
     
-    Lötstation (nur für BME280 notwendig)
+    Lötstation (nur für Anbringen des Pin-Headers am BME280 notwendig)
     
     
 Optional können Teilnehmer mitbringen: Eigene Hardware (z.B. Analogsensoren), Messgeräte
