@@ -5,7 +5,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
 
   Voraussetzung für das Tutorium sind (Bill of Material)
 
-    Eigenes Notebook (Windows, Linux, Mac); falls möglich mit microSD-Leser/Schreiber
+    Eigenes Notebook (Windows, Linux, Mac) mit WLAN-Fähigkeit (WAP, WAP2); falls möglich mit microSD-Leser/Schreiber
     
   Verwendete Programmiersprache
   
