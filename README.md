@@ -17,7 +17,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     Netzteil
     
-    microSD-Karte (32 GB, Class 10) für Buster Lite als OS
+    microSD-Karte (32 GB, Class 10) mit Buster Lite als OS
     
     PFC8591 Modul
     
@@ -45,13 +45,13 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
 Optional können Teilnehmer mitbringen: Eigene Hardware (z.B. Analogsensoren), Messgeräte
   
 
-Notwendige Software-Installationen
+Notwendige Software-Installationen (alle Software-Pakete sind frei von Kosten)
 
 
     Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
     Alternativ: Andere IDE oder anderer Editor (z.B., nano, vim, vi)
   
-    openSSH-kompatibler Client für ssh, sftp-Zugriff auf Raspberry Pi
+    openSSH-kompatibler Client für den ssh und sftp-Zugriff auf Raspberry Pi
   
     BalenaEtcher-Software zum Schreiben von microSDs
   
