@@ -68,6 +68,7 @@ Für die Übungen sollten Teilnehmer eigene Konten erstellen auf
     
 Die GitHub-Verzeichnisse auf https://github.com/ms1963/IoTDeeperDiveOOP2020 enthalten:
 
+
 /src .......... Quellen für die im Tutorium verwendeten Beispiele
 
 /datasheets ... Datenblätter, Informationsbroschüren, Python-Tutorial
