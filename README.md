@@ -56,7 +56,7 @@ Notwendige Software-Installationen (alle Software-Pakete sind frei von Kosten)
   
     BalenaEtcher-Software zum Schreiben von microSDs
   
-    Eventuell auch Tensorflow Lite
+    Optional: eventuell auch Tensorflow Lite (https://github.com/cloudwiser/TensorFlowLiteRPIZero)
     
     Optional: Fritzing für Schaltungsentwurf
   
