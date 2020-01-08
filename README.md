@@ -33,6 +33,8 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     Widerstände
     
+    Push-Button
+    
     "Jumper-Cables" (hauptsächlich Female/Male und Male/Male)
     
     Verfügbarkeit eines offenen WLAN
