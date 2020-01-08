@@ -74,3 +74,5 @@ Die GitHub-Verzeichnisse auf https://github.com/ms1963/IoTDeeperDiveOOP2020 enth
 
 /handouts ..... PDF mit Handouts des Tutoriums
   
+Kopieren des Master-Branches über git clone https://github.com/ms1963/IoTDeeperDiveOOP2020.git 
+oder als ZIP-Download
