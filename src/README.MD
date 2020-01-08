@@ -1,1 +1,2 @@
-Nutzung der Quellen frei und hne Gewähr
+
+Nutzung der Quellen frei und ohne Gewähr
