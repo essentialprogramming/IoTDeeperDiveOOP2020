@@ -25,7 +25,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     BME280 Breakout Board
     
-    Raspberry Pi Camera
+    Raspberry Pi Camera 
     
     Breadboard
     
