@@ -1,6 +1,7 @@
 IoTDeeperDiveOOP2020
 
-Hier finden Teilnehmer des IoT Deeper Dive Tutoriums alle Resourcen wie zum Beispiel Quelldateien, Handouts, Datenblätter.
+Hier finden Teilnehmer des IoT Deeper Dive Tutoriums alle Resourcen wie zum Beispiel Quelldateien, 
+Handouts, Datenblätter.
 Die Nutzung der Artefakte erfolgt ohne Gewähr.
 
   Voraussetzung für das Tutorium sind (Bill of Material)
@@ -16,7 +17,8 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   
     Im Tutorium arbeiten wir mit einem Raspberry Pi Zero W{H}. 
   
-    Die Arbeit erfolgt über eine sogenannte "headless" Installation: Zugriff auf Raspi über ssh/sftp
+    Die Arbeit erfolgt über eine sogenannte "headless" Installation: 
+    d.h., Zugriff auf Raspi über ssh/sftp
     
     Verwendet wird Raspbian Buster als Betriebssystem
     
