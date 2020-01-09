@@ -12,6 +12,34 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   
     Python 3.x (z.B. 3.7)
   
+  Vorgehensweise
+  
+    Im Tutorium arbeiten wir mit einem Raspberry Pi Zero W{H}. 
+  
+    Die Arbeit erfolgt über eine sogenannte "headless" Installation: Zugriff auf Raspi über ssh/sftp
+    
+    Verwendet wird Raspbian Buster als Betriebssystem
+    
+    Notwendig dazu ist auf dem Host-PC (Windows, Mac, Linux) eine WiFi-Funktion
+    
+    Löten müssen Teilnehmer nur zum Anbringen des Headers am BME280-Modul
+    
+    Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), einem BME280-Modul (Temperatur, Feuchtigkeit, Druck), 
+   einem PFC8591 A/D-Wandler Breakout, einer Raspberry Pi Camera
+    
+    Zur Verfügung stehen des Weiteren ein Breadboard und Jumper-Wires.
+    
+    In den Übungen erfolgt Zugriff auf ThingSpeak und IFTTT, wofür Teilnehmer ein eigenes Konto anlegen müssen.
+    
+    Auf dem Raspberry Pi Zero WH mit Buster-OS wird im Verlauf des Tutoriums auch Node-RED benutzt(optional)
+    
+  Agenda
+  
+    Teil 1) Grundlagen
+    Teil 2) Übungen
+    Teil 3) Mini Hackathon
+  
+  
   Die folgende Hardware wird vom Veranstalter bzw. Referenten zur Verfügung gestellt:
   
     Raspberry Pi Zero WH
@@ -68,17 +96,15 @@ Für die Übungen sollten Teilnehmer eigene Konten erstellen auf
     
 Die GitHub-Verzeichnisse auf https://github.com/ms1963/IoTDeeperDiveOOP2020 enthalten:
 
-
-  /src .......... Quellen für die im Tutorium verwendeten Beispiele
-
-  /datasheets ... Datenblätter, Informationsbroschüren, Python-Tutorial
-
-  /handouts ..... PDF mit Handouts des Tutoriums
+    /src .......... Quellen für die im Tutorium verwendeten Beispiele 
+    /datasheets ... Datenblätter, Informationsbroschüren, Python-Tutorial
+    /handouts ..... PDF mit Handouts des Tutoriums
   
 Kopieren des Master-Branches über 
 
     git clone https://github.com/ms1963/IoTDeeperDiveOOP2020.git 
     
-oder als ZIP-Download.
+oder als 
+    ZIP-Download.
 
 Bei dringenden Rückfragen Mail an: michael DOT stal AT gmail DOT com
