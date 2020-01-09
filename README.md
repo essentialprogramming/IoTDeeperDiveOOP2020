@@ -24,14 +24,17 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     Löten müssen Teilnehmer nur zum Anbringen des Headers am BME280-Modul
     
-    Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), einem BME280-Modul (Temperatur, Feuchtigkeit, Druck), 
-   einem PFC8591 A/D-Wandler Breakout, einer Raspberry Pi Camera
+    Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), 
+    einem BME280-Modul (Temperatur, Feuchtigkeit, Druck), 
+    einem PFC8591 A/D-Wandler Breakout, einer Raspberry Pi Camera
     
     Zur Verfügung stehen des Weiteren ein Breadboard und Jumper-Wires.
     
-    In den Übungen erfolgt Zugriff auf ThingSpeak und IFTTT, wofür Teilnehmer ein eigenes Konto anlegen müssen.
+    In den Übungen erfolgt Zugriff auf ThingSpeak und IFTTT, wofür Teilnehmer 
+    ein eigenes Konto anlegen müssen.
     
-    Auf dem Raspberry Pi Zero WH mit Buster-OS wird im Verlauf des Tutoriums auch Node-RED benutzt(optional)
+    Auf dem Raspberry Pi Zero WH mit Buster-OS wird im Verlauf des Tutoriums 
+    auch Node-RED benutzt(optional)
     
   Agenda
   
