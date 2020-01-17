@@ -7,7 +7,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   Voraussetzung für das Tutorium sind (Bill of Material)
 
     Eigenes Notebook (Windows, Linux, Mac) mit WLAN-Fähigkeit (WAP, WAP2); 
-    falls möglich mit microSD-Leser/Schreiber
+    falls möglich mit microSD-Leser/Schreiber (für Class 10 microSDs)
     
   Verwendete Programmiersprache
   
@@ -15,7 +15,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   
   Vorgehensweise
   
-    Im Tutorium arbeiten wir mit einem Raspberry Pi Zero W{H}. 
+    Im Tutorium arbeiten wir mit einem Raspberry Pi Zero W{H}
   
     Die Arbeit erfolgt über eine sogenannte "headless" Installation: 
     d.h., Zugriff auf Raspi über ssh/sftp
@@ -26,7 +26,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     Löten müssen Teilnehmer nur zum Anbringen des Headers am BME280-Modul
     
-    Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), 
+    Die Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), 
     einem BME280-Modul (Temperatur, Feuchtigkeit, Druck), 
     einem PFC8591 A/D-Wandler Breakout, einer Raspberry Pi Camera
     
@@ -65,11 +65,11 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     LEDs
     
-    Widerstände
+    Widerstände (220 Ohm und 470 Ohm)
     
-    Push-Button
+    Push-Buttons
     
-    "Jumper-Cables" (hauptsächlich Female/Male und Male/Male)
+    "Jumper-Cables" (Female/Female, Female/Male und Male/Male)
     
     Offenes WLAN
     
@@ -82,10 +82,10 @@ Optional können Teilnehmer mitbringen: Eigene Hardware (z.B. Analogsensoren), M
 Notwendige Software-Installationen (alle Software-Pakete sind frei von Kosten)
 
 
-    Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
+    Optional: Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
     Alternativ: Andere IDE oder anderer Editor (z.B., nano, vim, vi)
   
-    openSSH-kompatibler Client für den ssh und sftp-Zugriff auf Raspberry Pi
+    openSSH-kompatibler Client für den ssh- und sftp-Zugriff auf Raspberry Pi
   
     BalenaEtcher-Software zum Schreiben von microSDs
   
