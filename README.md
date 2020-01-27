@@ -104,7 +104,7 @@ Die GitHub-Verzeichnisse auf https://github.com/ms1963/IoTDeeperDiveOOP2020 enth
     /src .......... Quellen für die im Tutorium verwendeten Beispiele 
     /datasheets ... Datenblätter, Informationsbroschüren, Python-Tutorial
     /handouts ..... PDF mit Handouts des Tutoriums
-    /resources .... PiBakery 2.0 -Rezept zum erzeugen der microSD (Raspbian Buster)
+    /resources .... PiBakery 2.0 - Rezept zum Erzeugen der microSD (Raspbian Buster)
   
 Kopieren des Master-Branches über 
 
