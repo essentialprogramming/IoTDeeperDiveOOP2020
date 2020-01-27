@@ -1,0 +1,66 @@
+<xml 
+  xmlns="http://www.w3.org/1999/xhtml">
+  <block type="onfirstboot" id="onfirstboot" x="23" y="5">
+    <next>
+      <block type="sethostname" id="nC!?.^Qm0o+EPfG#6{Mk">
+        <field name="1">rpiz01</field>
+        <next>
+          <block type="bootbehaviour" id="c5/x4YFpqBF;Ogk][54n">
+            <field name="1">Console logged in</field>
+            <next>
+              <block type="seti2c" id="7OxQ9|z9H1;4g3,`[g)h">
+                <field name="1">Enable</field>
+                <next>
+                  <block type="changepass" id="h)`hav,_pW#7iA1Se#gW">
+                    <field name="1">raspberry</field>
+                    <next>
+                      <block type="wifisetup" id="voVsUU6i+58^}!l/OWhO">
+                        <field name="1">IoTnet</field>
+                        <field name="2">10Tn3t</field>
+                        <field name="3">WPA/WPA2</field>
+                        <field name="4">DE</field>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <block type="onfirstboot" id="i)TVk7E2O_?y3^{Fvb/F" x="23" y="5">
+    <next>
+      <block type="sethostname" id="yHMy@l%(gvzJYr3c^C[x">
+        <field name="1">rpiz30</field>
+        <next>
+          <block type="bootbehaviour" id="lh{/*4R|^6{oebHeXour">
+            <field name="1">Console logged in</field>
+            <next>
+              <block type="seti2c" id="NAyah=KB.#Zp,X)PHtx,">
+                <field name="1">Enable</field>
+                <next>
+                  <block type="changepass" id="*|Ubygo1Ftt,KQdj;Hfh">
+                    <field name="1">raspberry</field>
+                    <next>
+                      <block type="wifisetup" id="L8V=nmo_K;]23vNHAdky">
+                        <field name="1">OOPIoTnet</field>
+                        <field name="2">00P10Tn3t</field>
+                        <field name="3">WPA/WPA2</field>
+                        <field name="4">DE</field>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <firstboot 
+    xmlns="">0
+  </firstboot>
+</xml>
