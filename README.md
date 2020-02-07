@@ -1,24 +1,28 @@
 IoTDeeperDiveOOP2020
 
 Hier finden Teilnehmer des IoT Deeper Dive Tutoriums und interessierte Nutzer eines Raspberry Pi alle Resourcen wie zum Beispiel Quelldateien, Handouts, Datenblätter.
+Das Tutorium nutzt den Raspberry Pi Zero WH als Zielplattform für die Implementierung eines IoT-Geräts.
+Es sind auch andere Raspberry-Pi-Boards nutzbar, sofern sie über WiFi-Funktionalität verfügen.
 
 Die Nutzung der Artefakte erfolgt ohne Gewähr.
 
-  Voraussetzung für das Tutorium bzw. das Nachvollziehen des Tutoriums zuhause sind (Bill of Material)
+  Voraussetzung für das Tutorium bzw. das Nachvollziehen des Tutoriums zuhause sind (Bill of Material):
 
     Eigenes Notebook (Windows, Linux, Mac) mit WLAN-Fähigkeit (WAP, WAP2); 
     falls möglich mit microSD-Leser/Schreiber (für Class 10 microSDs)
     
   Verwendete Programmiersprache
   
-    Python 3.x (z.B. 3.7)
+    Python 3.x (x >= 7)
   
   Vorgehensweise
   
-    Die Übungen arbeiten mit einem Raspberry Pi Zero W{H}
+    Die Übungen arbeiten mit einem Raspberry Pi Zero W{H} oder ein anderes Raspberry Pi Board
   
-    Die Arbeit erfolgt über eine sogenannte "headless" Installation: 
-    d.h., Zugriff auf Raspi über ssh/sftp
+    Die Arbeit an den Übungen erfolgt über eine sogenannte "headless" Installation: 
+    d.h., Zugriff auf Raspi über ssh/sftp. Also Host = PC, Target = Raspberry Pi.
+    Alternativ können IoT-Interessierte auch Bildschirm, Maus, Tastatur an den Raspberry Pi anschließen. 
+    In diesem Fall ist der Raspberry Pi zugleich Host und Target.
     
     Verwendet wird Raspbian Buster oder höher als Betriebssystem
     
@@ -33,8 +37,8 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     In den Übungen erfolgt Zugriff auf ThingSpeak und IFTTT, wofür Teilnehmer 
     ein eigenes Konto anlegen müssen.
     
-    Auf dem Raspberry Pi Zero WH mit Buster-OS wird im Verlauf des Tutoriums 
-    auch Node-RED benutzt(optional)
+    Auf dem Raspberry Pi Zero WH mit Raspbian Buster (oder höher) wird im Verlauf des Tutoriums 
+    auch Node-RED benutzt (optional)
     
   Agenda
   
@@ -43,7 +47,8 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     Teil 3) Mini Hackathon
   
   
-  Die folgende Hardware wird benötigt / vom Veranstalter bzw. Referenten zur Verfügung gestellt (eschätzter Einkaufspreis: 50-60 Euro).
+  Die folgende Hardware wird benötigt / vom Veranstalter bzw. Referenten zur Verfügung gestellt 
+    (geschätzter Einkaufspreis: 50-60 Euro)
   
     Raspberry Pi Zero WH
     
@@ -69,22 +74,22 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     "Jumper-Cables" (Female/Female, Female/Male und Male/Male)
     
-    Offenes WLAN
+    Ein gemeinsamer WLAN-Zugang (für Notebook und Raspberry Pi)
     
-    Lötstation (nur für Anbringen des Pin-Headers am BME280 notwendig)
+    Lötstation (für notwendige Elektronikarbeiten)
     
     
-Optional können Teilnehmer mitbringen: Eigene Hardware (z.B. Analogsensoren), Messgeräte
+Optional: Eigene Hardware (z.B. Analogsensoren), Messgeräte
   
 
 Notwendige Software-Installationen (alle Software-Pakete sind frei von Kosten)
 
-    Optional: Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
+    Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
     Alternativ: Andere IDE oder anderer Editor (z.B., nano, vim, vi)
   
     openSSH-kompatibler Client für den ssh- und sftp-Zugriff auf Raspberry Pi
   
-    BalenaEtcher-Software zum Schreiben von microSDs
+    BalenaEtcher-Software zum Schreiben von microSDs oder alternativ PiBakery
     
     Optional: Fritzing für Schaltungsentwurf
   
