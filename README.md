@@ -1,10 +1,10 @@
 IoTDeeperDiveOOP2020
 
-Hier finden Teilnehmer des IoT Deeper Dive Tutoriums alle Resourcen wie zum Beispiel Quelldateien, 
-Handouts, Datenblätter.
+Hier finden Teilnehmer des IoT Deeper Dive Tutoriums und interessierte Nutzer eines Raspberry Pi alle Resourcen wie zum Beispiel Quelldateien, Handouts, Datenblätter.
+
 Die Nutzung der Artefakte erfolgt ohne Gewähr.
 
-  Voraussetzung für das Tutorium sind (Bill of Material)
+  Voraussetzung für das Tutorium bzw. das Nachvollziehen des Tutoriums zuhause sind (Bill of Material)
 
     Eigenes Notebook (Windows, Linux, Mac) mit WLAN-Fähigkeit (WAP, WAP2); 
     falls möglich mit microSD-Leser/Schreiber (für Class 10 microSDs)
@@ -15,22 +15,20 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   
   Vorgehensweise
   
-    Im Tutorium arbeiten wir mit einem Raspberry Pi Zero W{H}
+    Die Übungen arbeiten mit einem Raspberry Pi Zero W{H}
   
     Die Arbeit erfolgt über eine sogenannte "headless" Installation: 
     d.h., Zugriff auf Raspi über ssh/sftp
     
-    Verwendet wird Raspbian Buster als Betriebssystem
+    Verwendet wird Raspbian Buster oder höher als Betriebssystem
     
-    Notwendig dazu ist auf dem Host-PC (Windows, Mac, Linux) eine WiFi-Funktion
-    
-    Löten müssen Teilnehmer nur zum Anbringen des Headers am BME280-Modul
+    Notwendig dazu ist auf dem Host-PC (Windows, Mac, Linux) eine WiFi-Funktion.
     
     Die Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), 
     einem BME280-Modul (Temperatur, Feuchtigkeit, Druck), 
-    einem PFC8591 A/D-Wandler Breakout, einer Raspberry Pi Camera
+    einem PFC8591 A/D-Wandler Breakout, einer Raspberry Pi Camera.
     
-    Zur Verfügung stehen des Weiteren ein Breadboard und Jumper-Wires.
+    Benötigt werden des Weiteren ein Breadboard und Jumper-Wires.
     
     In den Übungen erfolgt Zugriff auf ThingSpeak und IFTTT, wofür Teilnehmer 
     ein eigenes Konto anlegen müssen.
@@ -45,7 +43,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     Teil 3) Mini Hackathon
   
   
-  Die folgende Hardware wird vom Veranstalter bzw. Referenten zur Verfügung gestellt:
+  Die folgende Hardware wird benötigt / vom Veranstalter bzw. Referenten zur Verfügung gestellt (eschätzter Einkaufspreis: 50-60 Euro).
   
     Raspberry Pi Zero WH
     
@@ -81,19 +79,16 @@ Optional können Teilnehmer mitbringen: Eigene Hardware (z.B. Analogsensoren), M
 
 Notwendige Software-Installationen (alle Software-Pakete sind frei von Kosten)
 
-
     Optional: Visual Studio Code (Mac, Linux oder Windows) plus PlugIns für Python 3 und Remote SSH
     Alternativ: Andere IDE oder anderer Editor (z.B., nano, vim, vi)
   
     openSSH-kompatibler Client für den ssh- und sftp-Zugriff auf Raspberry Pi
   
     BalenaEtcher-Software zum Schreiben von microSDs
-  
-    Optional: eventuell auch Tensorflow Lite (https://github.com/cloudwiser/TensorFlowLiteRPIZero)
     
     Optional: Fritzing für Schaltungsentwurf
   
-Für die Übungen sollten Teilnehmer eigene Konten erstellen auf
+Für die Übungen erstellen Teilnehmer eigene Konten auf
 
     ThingSpeak
   
@@ -112,5 +107,3 @@ Kopieren des Master-Branches über
     
 oder als 
     ZIP-Download.
-
-Bei dringenden Rückfragen Mail an: michael DOT stal AT gmail DOT com
