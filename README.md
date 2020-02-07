@@ -1,10 +1,8 @@
 IoTDeeperDiveOOP2020
 
-Hier finden Teilnehmer des IoT Deeper Dive Tutoriums und interessierte Nutzer eines Raspberry Pi alle Resourcen wie zum Beispiel Quelldateien, Handouts, Datenblätter.
+Hier finden Teilnehmer des IoT Deeper Dive Tutoriums und andere interessierte Nutzer eines Raspberry Pi alle Resourcen wie zum Beispiel Quelldateien, Handouts, Datenblätter.
 Das Tutorium nutzt den Raspberry Pi Zero WH als Zielplattform für die Implementierung eines IoT-Geräts.
 Es sind auch andere Raspberry-Pi-Boards nutzbar, sofern sie über WiFi-Funktionalität verfügen.
-
-Die Nutzung der Artefakte erfolgt ohne Gewähr.
 
   Voraussetzung für das Tutorium bzw. das Nachvollziehen des Tutoriums zuhause sind (Bill of Material):
 
@@ -17,7 +15,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
   
   Vorgehensweise
   
-    Die Übungen arbeiten mit einem Raspberry Pi Zero W{H} oder ein anderes Raspberry Pi Board
+    Die Übungen setzen einen Raspberry Pi Zero W{H} oder ein anderes Raspberry Pi Board voraus.
   
     Die Arbeit an den Übungen erfolgt über eine sogenannte "headless" Installation: 
     d.h., Zugriff auf Raspi über ssh/sftp. Also Host = PC, Target = Raspberry Pi.
@@ -26,7 +24,7 @@ Die Nutzung der Artefakte erfolgt ohne Gewähr.
     
     Verwendet wird Raspbian Buster oder höher als Betriebssystem
     
-    Notwendig dazu ist auf dem Host-PC (Windows, Mac, Linux) eine WiFi-Funktion.
+    Notwendig dazu ist auf dem Host-PC (Windows, Mac, Linux, Raspberry Pi) eine WiFi-Funktion.
     
     Die Übungen arbeiten mit LEDs, einem PIR-Sensor (Bewegungsmelder), 
     einem BME280-Modul (Temperatur, Feuchtigkeit, Druck), 
