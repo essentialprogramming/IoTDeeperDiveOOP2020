@@ -1,5 +1,5 @@
 Dateien für Herstellung einer eigenen Raspbian-MicroSD (zum Booten unter Raspberry Pi)
-Raspbian-Download über: https://www.raspberrypi.org/downloads/raspbian/
+
 
 PiBakery:
 PIBakery*.xml       Anpassen und dann für PiBakery V2.0 nutzen
@@ -7,9 +7,10 @@ PIBakery*.xml       Anpassen und dann für PiBakery V2.0 nutzen
 balenaEtcher:
 ssh                 Leere Datei belassen, und ...
 wpa_supplicant.conf Anpassen und dann in <boot>-Verzeichnis kopieren.
-Die Dateien werden beim ersten Book in ein Systemverzeichnis umkopiert. 
+Die Dateien werden beim ersten Booten in ein Systemverzeichnis umkopiert. 
 ssh führt dazu, dass Raspberry Pi einen SSH-Zugang einrichtet (Rechnername: raspberry pi, Nutzer: pi, Passwort: raspberry).
 wpa_supplicant.conf dient zum Einstellen des eigenen WLAN-Hotspots.
 
+Raspbian-Download: https://www.raspberrypi.org/downloads/raspbian/
 balenaEtcher-Download: https://www.balena.io/etcher/
 PiBakery-Download: https://www.pibakery.org/download.html 
